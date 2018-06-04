@@ -1,0 +1,9 @@
+name: Demo
+version: 0.1
+main: me.flashypenguinz.Demo.Demo
+
+commands:
+  particle:
+    description: Generates a particle circle
+  deaths:
+    description: Tells you how many deaths you have since last login
